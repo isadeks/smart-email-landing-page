@@ -1,0 +1,32 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="hero-text">
+    <h1>Say goodbye to scheduling headaches</h1>
+    <p>Click your free slots, then let OpenAI craft a natural-language reply you can paste right into your email.</p>
+    <a class="btn" href="https://github.com/lukashchu/smart-email-calendar-scheduler/releases">Download & Install</a>
+  </div>
+  <div class="hero-image">
+    <img src='{{ "images/icon-ai.png" | relURL }}' alt="AI Calendar Icon">
+  </div>
+</section>
+
+<section class="features">
+  <h2>How It Works</h2>
+  <ol>
+    <li>Install &amp; authorize Google Calendar.</li>
+    <li>Click the extension icon and pick your free time blocks.</li>
+    <li>Copy the polished reply into your email draft.</li>
+  </ol>
+</section>
+
+<section class="screenshots">
+  <h2>In-App Preview</h2>
+  <div class="screenshot"><img src='{{ "images/screenshot-1.png" | relURL }}' alt="Select Time Blocks"></div>
+  <div class="screenshot"><img src='{{ "images/screenshot-2.png" | relURL }}' alt="Settings & History"></div>
+</section>
+
+<section class="cta">
+  <h2>Ready to simplify scheduling?</h2>
+  <a class="btn outline" href="https://github.com/lukashchu/smart-email-calendar-scheduler">View on GitHub</a>
+</section>
+{{ end }}

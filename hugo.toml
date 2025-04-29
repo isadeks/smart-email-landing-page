@@ -1,0 +1,16 @@
+baseURL = "https://isadeks.github.io/smart-email-landing-page"
+languageCode = "en-us"
+title = "Smart Email Calendar Scheduler"
+
+[params]
+  email = "sphia@sas.upenn.com"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 2
