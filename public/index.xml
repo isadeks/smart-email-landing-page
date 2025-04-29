@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Smart Email Calendar Scheduler</title>
-    <link>http://localhost:1313/smart-email-landing-page/</link>
+    <link>https://isadeks.github.io/smart-email-landing-page/</link>
     <description>Recent content on Smart Email Calendar Scheduler</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/smart-email-landing-page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://isadeks.github.io/smart-email-landing-page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact Us</title>
-      <link>http://localhost:1313/smart-email-landing-page/contact/</link>
+      <link>https://isadeks.github.io/smart-email-landing-page/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/smart-email-landing-page/contact/</guid>
+      <guid>https://isadeks.github.io/smart-email-landing-page/contact/</guid>
       <description>&lt;h3 id=&#34;wed-love-to-hear-from-you&#34;&gt;We&amp;rsquo;d love to hear from you!&lt;/h3&gt;&#xA;&lt;p&gt;If you have any questions, feedback or run into any issues, drop us a line at:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:support@yourdomain.com&#34;&gt;support@yourdomain.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Or fill out the form below:&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Your Email&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Message&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Send&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
   </channel>
